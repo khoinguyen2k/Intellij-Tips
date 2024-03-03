@@ -1,2 +1,2 @@
 # Intellij-Tips
-All tips of the day, in Intellij 2019
+Hey, do you know Alt+PrtSc? It will only print the current program your PC is focusing at!
